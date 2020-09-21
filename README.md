@@ -40,7 +40,7 @@ Usage Instructions:
     'ETH' = For Ethereum.
 
 4. Provide a threshold price for both curriencies:
-    BTC threshold may be $10000 and ETH threshold may be $300.
+    BTC threshold may be $10000 (While running the code Input 10000 for 10,000) and ETH threshold may be $300 (While running the code Input 10 for 10,000) and .
 
 5. Last argument to provide is notification time interval:
     Say about 5 mins or any speecific time input in minutes.
